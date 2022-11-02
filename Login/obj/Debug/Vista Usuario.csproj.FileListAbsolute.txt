@@ -1,0 +1,66 @@
+C:\Users\Matias\Desktop\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Matias\Desktop\Login\Login\bin\Debug\Login.exe
+C:\Users\Matias\Desktop\Login\Login\bin\Debug\Login.pdb
+C:\Users\Matias\Desktop\Login\Login\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Matias\Desktop\Login\Login\bin\Debug\Logica de Negocio.dll
+C:\Users\Matias\Desktop\Login\Login\bin\Debug\Acceso Datos.dll
+C:\Users\Matias\Desktop\Login\Login\bin\Debug\Logica de Negocio.pdb
+C:\Users\Matias\Desktop\Login\Login\bin\Debug\Acceso Datos.pdb
+C:\Users\Matias\Desktop\Login\Login\obj\Debug\Vista Usuario.csproj.AssemblyReference.cache
+C:\Users\Matias\Desktop\Login\Login\obj\Debug\Vista Usuario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matias\Desktop\Login\Login\obj\Debug\Login.frmLogin.resources
+C:\Users\Matias\Desktop\Login\Login\obj\Debug\Login.frmCambioPass.resources
+C:\Users\Matias\Desktop\Login\Login\obj\Debug\Login.frmABMUsuarios.resources
+C:\Users\Matias\Desktop\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Matias\Desktop\Login\Login\obj\Debug\Vista Usuario.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\Login\Login\obj\Debug\Vista Usuario.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Login\Login\obj\Debug\Vista Usuario.csproj.CopyComplete
+C:\Users\Matias\Desktop\Login\Login\obj\Debug\Login.exe
+C:\Users\Matias\Desktop\Login\Login\obj\Debug\Login.pdb
+C:\Users\Matias\Desktop\Login\Login\obj\Debug\Login.frmHome.resources
+C:\Users\Matias\Desktop\Login\Login\bin\Debug\CapaComun.dll
+C:\Users\Matias\Desktop\Login\Login\bin\Debug\CapaComun.pdb
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\bin\Debug\Login.exe
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\bin\Debug\Login.pdb
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\bin\Debug\CapaComun.dll
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\bin\Debug\Logica de Negocio.dll
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\bin\Debug\Acceso Datos.dll
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\bin\Debug\CapaComun.pdb
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\bin\Debug\Logica de Negocio.pdb
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\bin\Debug\Acceso Datos.pdb
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\obj\Debug\Vista Usuario.csproj.AssemblyReference.cache
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\obj\Debug\Vista Usuario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\obj\Debug\Login.frmLogin.resources
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\obj\Debug\Login.frmCambioPass.resources
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\obj\Debug\Login.frmABMUsuarios.resources
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\obj\Debug\Login.frmHome.resources
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\obj\Debug\Vista Usuario.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\obj\Debug\Vista Usuario.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\obj\Debug\Vista Usuario.csproj.CopyComplete
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\obj\Debug\Login.exe
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Login\obj\Debug\Login.pdb
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\bin\Debug\Login.exe
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\bin\Debug\Login.pdb
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\bin\Debug\CapaComun.dll
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\bin\Debug\Logica de Negocio.dll
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\bin\Debug\Acceso Datos.dll
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\bin\Debug\CapaComun.pdb
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\bin\Debug\Logica de Negocio.pdb
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\bin\Debug\Acceso Datos.pdb
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\obj\Debug\Vista Usuario.csproj.AssemblyReference.cache
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\obj\Debug\Vista Usuario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\obj\Debug\Login.frmLogin.resources
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\obj\Debug\Login.frmCambioPass.resources
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\obj\Debug\Login.frmABMUsuarios.resources
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\obj\Debug\Login.frmHome.resources
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\obj\Debug\Vista Usuario.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\obj\Debug\Vista Usuario.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\obj\Debug\Vista Usuario.csproj.CopyComplete
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\obj\Debug\Login.exe
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Login\obj\Debug\Login.pdb

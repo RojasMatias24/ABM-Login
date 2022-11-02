@@ -1,0 +1,6 @@
+C:\Users\Matias\Desktop\Login\CapaComun\bin\Debug\CapaComun.dll
+C:\Users\Matias\Desktop\Login\CapaComun\bin\Debug\CapaComun.pdb
+C:\Users\Matias\Desktop\Login\CapaComun\obj\Debug\CapaComun.csproj.AssemblyReference.cache
+C:\Users\Matias\Desktop\Login\CapaComun\obj\Debug\CapaComun.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Login\CapaComun\obj\Debug\CapaComun.dll
+C:\Users\Matias\Desktop\Login\CapaComun\obj\Debug\CapaComun.pdb

@@ -1,0 +1,27 @@
+C:\Users\Matias\Desktop\Login\Acceso Datos\bin\Debug\Acceso Datos.dll
+C:\Users\Matias\Desktop\Login\Acceso Datos\bin\Debug\Acceso Datos.pdb
+C:\Users\Matias\Desktop\Login\Acceso Datos\obj\Debug\Acceso Datos.csproj.AssemblyReference.cache
+C:\Users\Matias\Desktop\Login\Acceso Datos\obj\Debug\Acceso Datos.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Login\Acceso Datos\obj\Debug\Acceso Datos.dll
+C:\Users\Matias\Desktop\Login\Acceso Datos\obj\Debug\Acceso Datos.pdb
+C:\Users\Matias\Desktop\Login\Acceso Datos\bin\Debug\CapaComun.dll
+C:\Users\Matias\Desktop\Login\Acceso Datos\bin\Debug\CapaComun.pdb
+C:\Users\Matias\Desktop\Login\Acceso Datos\obj\Debug\Acceso Datos.csproj.CopyComplete
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Acceso Datos\bin\Debug\Acceso Datos.dll
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Acceso Datos\bin\Debug\Acceso Datos.pdb
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Acceso Datos\bin\Debug\CapaComun.dll
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Acceso Datos\bin\Debug\CapaComun.pdb
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Acceso Datos\obj\Debug\Acceso Datos.csproj.AssemblyReference.cache
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Acceso Datos\obj\Debug\Acceso Datos.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Acceso Datos\obj\Debug\Acceso Datos.csproj.CopyComplete
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Acceso Datos\obj\Debug\Acceso Datos.dll
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Acceso Datos\obj\Debug\Acceso Datos.pdb
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Acceso Datos\bin\Debug\Acceso Datos.dll
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Acceso Datos\bin\Debug\Acceso Datos.pdb
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Acceso Datos\bin\Debug\CapaComun.dll
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Acceso Datos\bin\Debug\CapaComun.pdb
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Acceso Datos\obj\Debug\Acceso Datos.csproj.AssemblyReference.cache
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Acceso Datos\obj\Debug\Acceso Datos.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Acceso Datos\obj\Debug\Acceso Datos.csproj.CopyComplete
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Acceso Datos\obj\Debug\Acceso Datos.dll
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Acceso Datos\obj\Debug\Acceso Datos.pdb

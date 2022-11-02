@@ -1,0 +1,33 @@
+C:\Users\Matias\Desktop\Login\Logica de Negocio\bin\Debug\Logica de Negocio.dll
+C:\Users\Matias\Desktop\Login\Logica de Negocio\bin\Debug\Logica de Negocio.pdb
+C:\Users\Matias\Desktop\Login\Logica de Negocio\bin\Debug\Acceso Datos.dll
+C:\Users\Matias\Desktop\Login\Logica de Negocio\bin\Debug\Acceso Datos.pdb
+C:\Users\Matias\Desktop\Login\Logica de Negocio\obj\Debug\Logica Negocio.csproj.AssemblyReference.cache
+C:\Users\Matias\Desktop\Login\Logica de Negocio\obj\Debug\Logica Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Login\Logica de Negocio\obj\Debug\Logica Negocio.csproj.CopyComplete
+C:\Users\Matias\Desktop\Login\Logica de Negocio\obj\Debug\Logica de Negocio.dll
+C:\Users\Matias\Desktop\Login\Logica de Negocio\obj\Debug\Logica de Negocio.pdb
+C:\Users\Matias\Desktop\Login\Logica de Negocio\bin\Debug\CapaComun.dll
+C:\Users\Matias\Desktop\Login\Logica de Negocio\bin\Debug\CapaComun.pdb
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Logica de Negocio\bin\Debug\Logica de Negocio.dll
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Logica de Negocio\bin\Debug\Logica de Negocio.pdb
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Logica de Negocio\bin\Debug\Acceso Datos.dll
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Logica de Negocio\bin\Debug\CapaComun.dll
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Logica de Negocio\bin\Debug\Acceso Datos.pdb
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Logica de Negocio\bin\Debug\CapaComun.pdb
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Logica de Negocio\obj\Debug\Logica Negocio.csproj.AssemblyReference.cache
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Logica de Negocio\obj\Debug\Logica Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Logica de Negocio\obj\Debug\Logica Negocio.csproj.CopyComplete
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Logica de Negocio\obj\Debug\Logica de Negocio.dll
+C:\Users\Matias\Desktop\C#\entorno grafico\Login\Logica de Negocio\obj\Debug\Logica de Negocio.pdb
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Logica de Negocio\bin\Debug\Logica de Negocio.dll
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Logica de Negocio\bin\Debug\Logica de Negocio.pdb
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Logica de Negocio\bin\Debug\Acceso Datos.dll
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Logica de Negocio\bin\Debug\CapaComun.dll
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Logica de Negocio\bin\Debug\Acceso Datos.pdb
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Logica de Negocio\bin\Debug\CapaComun.pdb
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Logica de Negocio\obj\Debug\Logica Negocio.csproj.AssemblyReference.cache
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Logica de Negocio\obj\Debug\Logica Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Logica de Negocio\obj\Debug\Logica Negocio.csproj.CopyComplete
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Logica de Negocio\obj\Debug\Logica de Negocio.dll
+C:\Users\Matias\Desktop\facultad\2do AÑO\C#\entorno grafico\Login\Logica de Negocio\obj\Debug\Logica de Negocio.pdb
